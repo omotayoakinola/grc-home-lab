@@ -93,9 +93,9 @@ exportable as PDF or CSV for audit packages.
 
 ## Screenshots
 
-![FIM Dashboard Overview — Alerts by Action Over Time](./screenshots/wazuh_omotayo.PNG)
-![FIM Dashboard — Top 5 Agents, Rule Distribution, Actions, Top Users](./screenshots/wazuh_omotayo_1.PNG)
-![FIM Events Log — Individual Alerts with Timestamps and Rule IDs](./screenshots/wazuh_omotayo_2.PNG)
+![FIM Dashboard Overview — Alerts by Action Over Time](./screenshots/Wazuh%20FIM%20lab%20screenshots.PNG)
+![FIM Dashboard — Top 5 Agents, Rule Distribution, Actions, Top Users](./screenshots/Wazuh%20FIM%20lab%20screenshots%201.PNG)
+![FIM Events Log — Individual Alerts with Timestamps and Rule IDs](./screenshots/Wazuh%20FIM%20lab%20screenshots%202.PNG)
 
 ---
 
